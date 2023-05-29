@@ -1,4 +1,4 @@
-# Bit Ridge Blitz - Submission for GameDev.tv Game Jam 2022
+# Bit Ridge Blitz - Submission for GameDev.tv Game Jam 2023
 
 ### Game Jam Details
 #### Theme : Life in 2 dimensions!
